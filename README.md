@@ -1,4 +1,4 @@
-# Important Takeaways from Data Analytics course at Google
+## Important Takeaways from Data Analytics course at Google
 # [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?)
 This repository contains important takeaways from the Google data analytics professional certificate at coursera.
 The content in the course are summarized in PDF formate.
