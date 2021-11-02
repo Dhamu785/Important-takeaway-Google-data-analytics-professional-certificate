@@ -11,7 +11,7 @@ This does not contains any answers for the quiz.
 * Set up your toolbox
 * Endless career possibilities <br/>
 
-#### [Overall notes for Course 1 (Foundations: Data, Data, Everywhere)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Foundations:%20Data%2C%20Data%2C%20Everywhere)
+#### *[Overall notes for Course 1 (Foundations: Data, Data, Everywhere)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Foundations:%20Data%2C%20Data%2C%20Everywhere)*
 ----
 
 ## [2. Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics)
@@ -20,5 +20,5 @@ This does not contains any answers for the quiz.
 * Learning spreadsheet basics
 * Always remember the stakeholder
 
-#### [Overall notes for Course 2 (Ask Questions to Make Data-Driven Decisions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)
+#### *[Overall notes for Course 2 (Ask Questions to Make Data-Driven Decisions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)*
 ----
