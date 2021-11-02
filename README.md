@@ -3,7 +3,7 @@
 This repository contains important takeaways from the Google data analytics professional certificate at coursera.
 The content in the course are summarized in PDF formate.
 This does not contains any answers for the quiz.
-## My study notes (Since 22/09/2021)
+## My study notes (Since 22nd September 2021)
 # [1. Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
 * Introducing data analytics
 * Foundations: Data, Data, Everywhere
