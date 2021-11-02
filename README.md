@@ -21,5 +21,5 @@ This does not contains any answers for the quiz.
 * Always remember the stakeholder
 * Course challenge
 
-### [Overall notes for Course 1 (Foundations: Data, Data, Everywhere)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)
+### [Overall notes for Course 2 (Ask Questions to Make Data-Driven Decisions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)
 ----
