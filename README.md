@@ -22,3 +22,13 @@ This does not contains any answers for the quiz.
 
 #### *[Overall notes for Course 2 (Ask Questions to Make Data-Driven Decisions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)*
 ----
+
+## [3. Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)
+* Data types and data structures
+* Bias, credibility, privacy, ethics, and access
+* Databases: Where data lives
+* Organizing and protecting your data
+* Optional: Engaging in the data community
+
+#### *[Overall notes for Course 3 (Prepare Data for Exploration)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Prepare%20Data%20for%20Exploration)*
+----
