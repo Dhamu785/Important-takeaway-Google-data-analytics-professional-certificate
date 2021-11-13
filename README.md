@@ -40,5 +40,5 @@ This does not contains any answers for the quiz.
 * Verify and report on your cleaning results
 * Optional: Adding data to your resume
 
-#### *[Overall notes for Course 3 (Process Data from Dirty to Clean)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Process%20Data%20from%20Dirty%20to%20Clean/Module%204_(Process%20Data%20from%20Dirty%20to%20Clean).pdf)*    
+#### *[Overall notes for Course 3 (Process Data from Dirty to Clean)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Process%20Data%20from%20Dirty%20to%20Clean)*    
 ----
