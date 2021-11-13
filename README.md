@@ -32,3 +32,13 @@ This does not contains any answers for the quiz.
 
 #### *[Overall notes for Course 3 (Prepare Data for Exploration)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Prepare%20Data%20for%20Exploration)*
 ----
+
+## [4. Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)
+* The importance of integrity
+* Sparkling-clean data
+* Cleaning data with SQL
+* Verify and report on your cleaning results
+* Optional: Adding data to your resume
+
+#### *[Overall notes for Course 3 (Prepare Data for Exploration)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Prepare%20Data%20for%20Exploration)*
+----
