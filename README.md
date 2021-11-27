@@ -40,15 +40,14 @@ This does not contains any answers for the quiz.
 * Verify and report on your cleaning results
 * Optional: Adding data to your resume
 
-#### *[Overall notes for Course 3 (Process Data from Dirty to Clean)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Process%20Data%20from%20Dirty%20to%20Clean)*    
+#### *[Overall notes for Course 4 (Process Data from Dirty to Clean)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Process%20Data%20from%20Dirty%20to%20Clean)*    
 ----
 
 ## [5. Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics)
-* The importance of integrity
-* Sparkling-clean data
-* Cleaning data with SQL
-* Verify and report on your cleaning results
-* Optional: Adding data to your resume
+* Organizing data to begin analysis
+* Formatting and adjusting data
+* Aggregating data for analysis
+* Performing data calculations
 
-#### *[Overall notes for Course 3 (Process Data from Dirty to Clean)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Process%20Data%20from%20Dirty%20to%20Clean)*    
+#### *[Overall notes for Course 5 (Analyze Data to Answer Questions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Analyze%20Data%20to%20Answer%20Questions/Module%205_(Analyze%20Data%20to%20Answer%20Questions).pdf)*    
 ----
