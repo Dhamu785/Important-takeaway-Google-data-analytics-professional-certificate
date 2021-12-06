@@ -51,3 +51,12 @@ This does not contains any answers for the quiz.
 
 #### *[Overall notes for Course 5 (Analyze Data to Answer Questions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Analyze%20Data%20to%20Answer%20Questions/Module%205_(Analyze%20Data%20to%20Answer%20Questions).pdf)*    
 ----
+
+
+## [6. Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)
+* Visualizing data
+* Creating data visualizations with Tableau
+* Crafting data stories
+* Developing presentations and slideshows
+#### *[Overall notes for Course 6 (Share Data Through the Art of Visualization)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Share%20Data%20Through%20the%20Art%20of%20Visualization/Module%206_(Share%20Data%20Through%20the%20Art%20of%20Visualization).pdf)*    
+----
