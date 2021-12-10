@@ -60,3 +60,12 @@ This does not contains any answers for the quiz.
 * Developing presentations and slideshows
 #### *[Overall notes for Course 6 (Share Data Through the Art of Visualization)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Share%20Data%20Through%20the%20Art%20of%20Visualization/Module%206_(Share%20Data%20Through%20the%20Art%20of%20Visualization).pdf)*    
 ----
+
+## [7. Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)
+* Programming and data analytics
+* Programming using RStudio
+* Working with data in R
+* More about visualizations, aesthetics, and annotations
+* Documentation and reports
+#### *[Overall notes for Course 6 (Share Data Through the Art of Visualization)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Share%20Data%20Through%20the%20Art%20of%20Visualization/Module%206_(Share%20Data%20Through%20the%20Art%20of%20Visualization).pdf)*    
+----
